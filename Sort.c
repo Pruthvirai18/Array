@@ -1,4 +1,4 @@
-//Sort half of the  array in ascending and other half in descending order
+//Sort half of the  array in ascending and other half in descending order using Bubblesort
 #include<stdio.h>
 int main()
 {
